@@ -18,6 +18,6 @@ for i in range(0,10):
 
 da2=np.reshape(da,(10,500))
 
-pdata=pd.DataFrame(data=da2,columns=['col1','col2','col3','col4','col5','col6','col7','col8','col9','col10'])
+pdata=pd.DataFrame(data=da2)
 
 
