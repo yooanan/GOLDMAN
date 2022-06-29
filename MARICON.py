@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 
 ## empty list to append 
-x=random.sample(range(1, 10000), 10)
+x=random.sample(range(0, 10000), 10)
 
   
   
