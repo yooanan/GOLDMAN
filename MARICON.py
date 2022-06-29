@@ -3,9 +3,7 @@ import numpy as np
 import pandas as pd
 
 ## empty list to append 
-x=[]
-for i in range(0,10):
-  x.append(randint(0,10000))
+x=random.sample(range(1, 10000), 10)
 
   
   
